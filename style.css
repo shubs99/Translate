@@ -1,0 +1,38 @@
+.header{
+    
+    text-align: center;
+    width: 100%;
+    margin-top: 90px;
+    color: black;
+   
+}
+
+body{
+    background-color: palevioletred;
+}
+
+
+#output{
+    text-align: center;
+    margin: 30px; 
+}
+
+.button{
+    margin: 5px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 98%;
+    margin-top: 30px;
+    color: black;
+    
+   
+}
+
+
+#btn-tran{
+    width: 10%; 
+    height: 0.8cm;
+    background-color: greenyellow;
+    cursor: pointer;
+}
